@@ -1,4 +1,4 @@
-# Memory_FinalProject
+# Memory Final Project
 This is our final project for school, assigned on "IT". So we had choosen to remake the Memory game on a version in C languange.
 
 ## Consider installing the library "Raylib" before running it, as a dependency of this program.
