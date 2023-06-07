@@ -17,3 +17,20 @@ This is our final project for school, assigned on "IT". So we had choosen to rem
 - [ ] Animated text
 - [ ] Score database
 - [ ] Multiplayer
+
+---
+
+## Partecipants
+
+### Croitoru Angelo
+- Grid mechanics
+- Score mechanics
+- Game gui
+- Settings gui
+- Fixed Menu gui
+### Hakani Dejvid
+- Images graphics
+- Music
+- Fixed bugs
+### Forner Davide
+- Menu gui
