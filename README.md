@@ -22,15 +22,6 @@ This is our final project for school, assigned on "IT". So we had choosen to rem
 
 ## Partecipants
 
-### Croitoru Angelo
-- Grid mechanics
-- Score mechanics
-- Game gui
-- Settings gui
-- Fixed Menu gui
-### Hakani Dejvid
-- Images graphics
-- Music
-- Fixed bugs
-### Forner Davide
-- Menu gui
+### 1. Croitoru Angelo
+### 2. Hakani Dejvid
+### 3. Forner Davide
