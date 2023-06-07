@@ -1,0 +1,1 @@
+cd "c:\Users\angel\Desktop\Proggetto Finale\" && gcc main.c -o main -l raylib && "c:\Users\angel\Desktop\Proggetto Finale\"main
